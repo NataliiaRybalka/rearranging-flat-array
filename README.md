@@ -7,7 +7,9 @@ Run code:
 ```
 node index.js
 ```
-5. Start test:
+5. Add file with expected data.
+6. Open **test.js** file and update *expectedTreeFilePath* variable to real meaning.
+7. Start test:
 ```
 node test.js
 ```
